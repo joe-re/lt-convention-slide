@@ -19,6 +19,6 @@ Lightning Talksの略です。
 
 ## 僕は、僕はねっ！
 
-![](../images/iam_iam.png)
+![](images/iam_iam.png)
 
 ## LT大会がしたいんです！

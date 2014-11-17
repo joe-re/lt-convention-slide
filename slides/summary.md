@@ -4,7 +4,7 @@
 
 いろいろ考えました。
 
-![](../images/mindmap.png)
+![](images/mindmap.png)
 
 ---
 
